@@ -1,0 +1,6 @@
+{
+  "name": "Academia de Protocolo y Ceremonial",
+  "description": "Plataforma interactiva para estudiar protocolo y ceremonial diplomático, con lecturas, cuestionarios de práctica y simuladores de precedencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
